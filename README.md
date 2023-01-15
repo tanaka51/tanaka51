@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m a Web developer in Japan.
+- 🔭 I’m a web developer in Japan.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
